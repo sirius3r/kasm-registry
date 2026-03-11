@@ -29,6 +29,15 @@
         "develop",
         "1.17.0"
       ]
+    },
+    {
+      "version": "1.18.x",
+      "image": "kasmweb/vs-code:1.18",
+      "uncompressed_size_mb": 2528,
+      "available_tags": [
+        "develop",
+        "1.17.0"
+      ]
     }
   ]
 }
