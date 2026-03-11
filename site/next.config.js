@@ -5,7 +5,7 @@ const nextConfig = {
   distDir: '../public',
   env: {
     name: 'Sirius3R',
-    description: 'The official store for Kasm supported workspaces.',
+    description: 'Testing Kasm workspace.',
     icon: '/img/logo.svg',
     listUrl: 'https://sirius3r.github.io/kasm-registry/',
     contactUrl: 'https://github.com/sirius3r/kasm-registry/issues',
