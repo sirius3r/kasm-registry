@@ -1,7 +1,7 @@
 {
   "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
   "docker_registry": "https://index.docker.io/v1/",
-  "image_src": "vs-code.png",
+  "image_src": "vscode.png",
   "categories": [
     "Development"
   ],
